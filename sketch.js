@@ -21,7 +21,7 @@ function setup() {
 	dustbinBottom = new Dustbin(990,685,200,10);
 	dustbinLeft = new Dustbin(895,630,10,100);
 	dustbinRight = new Dustbin(1085,630,10,100);
-	band = new Band(ball.body,{x:294,y:465})
+	band = new Band(ball.body,{x:150,y:465})
 
 	
 
