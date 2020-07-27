@@ -3,7 +3,7 @@ class Band  {
     var options = {
         bodyA:bodyA,
         pointB:pointB,
-        stiffness:0.01,
+        stiffness:0.009,
         length:30
     }
     this.bodyA = bodyA
